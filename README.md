@@ -1,4 +1,4 @@
-# 👋 Opa, tudo bom? Meu nome é João Pedro Pereira Requejo
+# 👋 Opa, tudo bom? Eu sou o João
 
 🎯 **Desenvolvedor em formação | Análise de Dados | Front-End & Back-End**
 
@@ -35,7 +35,7 @@ Você pode ver esses projetos “pinados” no meu perfil: por exemplo, **zippyg
 
 ---
 
-## 💼 Experiência Profissional  
+## 💼 Experiência Profissional:  
 
 - 🖥️ **Estagiário de Web Design – GAOTek Inc. (2025 – atual)**  
   Desenvolvimento de sites com WordPress + HTML, CSS, JavaScript; revisão com equipe de design; organização de conteúdo.
@@ -51,22 +51,22 @@ Você pode ver esses projetos “pinados” no meu perfil: por exemplo, **zippyg
 
 ---
 
-## 🎓 Formação Acadêmica  
+## 🎓 Formação Acadêmica: 
 
 🎓 **FIAP** – Tecnólogo em Análise e Desenvolvimento de Sistemas (2024 – 2026)  
 🎓 **FAAP** – Bacharelado em Jornalismo (2016 – 2019)  
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🌐 Onde me encontrar:
 
 📧 E-mail: [jp.requejos@gmail.com](mailto:jp.requejos@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/joaorequejo](https://www.linkedin.com/in/joaorequejo/)  
-📍 São Paulo – SP, Brasil  
+📍 São Paulo – SP, Brasil  (mas originalmente carioca :D)
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub:
 
 <div align="center">  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroP-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
@@ -76,5 +76,4 @@ Você pode ver esses projetos “pinados” no meu perfil: por exemplo, **zippyg
 
 ---
 
-> 💡 _“A melhor parte da tecnologia é que ela está sempre evoluindo — e eu também.”_  
-> — João Pedro Pereira (JoaoPedroP-web)
+> 💡 “A melhor parte da tecnologia é que ela está sempre evoluindo, e eu também.”
